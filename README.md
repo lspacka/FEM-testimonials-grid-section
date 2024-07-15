@@ -8,7 +8,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section---html-css-ySXoZ7cvvp)
 - [Live Site](https://lspacka.github.io/FEM-testimonials-grid-section/)
 
 ### Built with

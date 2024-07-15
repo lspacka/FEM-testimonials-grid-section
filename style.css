@@ -14,8 +14,9 @@ html {
 body {
   display: grid;
   place-content: center;
-  padding: 2rem 0 2rem 0;
+  /* padding: 1rem 0 1rem 0; */
   background-color: hsl(210, 46%, 95%);
+  min-height: 100vh;
 }
 
 img {
@@ -30,6 +31,7 @@ img {
   width: 90vw;
   max-height: 100vh;
   gap: 1.7rem;
+  margin: 1rem 0 1rem 0;
 }
 
 .card {
