@@ -6,7 +6,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 - [Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section---html-css-ySXoZ7cvvp)
 - [Live Site](https://lspacka.github.io/FEM-testimonials-grid-section/)
